@@ -21,8 +21,8 @@ MoneyFlow is a modern, user-friendly expense tracking application built with Rea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/moneyflow-expense-tracker.git
-cd moneyflow-expense-tracker
+git clone https://github.com/Myurr11/MoneyFlow.git
+cd MoneyFlow
 ```
 
 2. Install dependencies:
